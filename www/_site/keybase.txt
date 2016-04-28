@@ -1,0 +1,84 @@
+==================================================================
+https://keybase.io/kevashcraft
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kevashcraft.com
+  * I am kevashcraft (https://keybase.io/kevashcraft) on keybase.
+  * I have a public key with fingerprint 750B 82DF 2D84 EF12 8505  9A03 902F 0D8A 791D C126
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.11"
+        },
+        "key": {
+            "fingerprint": "750b82df2d84ef1285059a03902f0d8a791dc126",
+            "host": "keybase.io",
+            "key_id": "902F0D8A791DC126",
+            "uid": "16311586c73bd56a04e1ea1c7c8ea500",
+            "username": "kevashcraft"
+        },
+        "merkle_root": {
+            "ctime": 1403717359,
+            "hash": "0d630fe55795885c742b9c9e36e9af93330fb3c779fd5bb1040819bcc5c87520da6a0517980afafb206bb774c720d8dc805a253b8311989b4de0c8a6afa346f7",
+            "seqno": 23575
+        },
+        "service": {
+            "hostname": "kevashcraft.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1403717455,
+    "expire_in": 157680000,
+    "prev": "0abfd8903336ba7a5e5f64368bb12ae467338456f6f5c7c880c40c69453eec97",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFlkn1QFGUcx483qQQPsfIlHHVlmhjoePZ2n30hrBgEGcc04SKCknafffbY87i9
+9g7wDgiVSqJ4UYcsTRzQISwrg8TBRprMwUxLGhDQfKHBsZExBlIDFJh2zRqd9q/d
+/X1+v+f7/f6e2vAgU2BAbXx4pW/hd08GnLommjI+C11TTIiq5CMSignkVLDLa7y5
+hHxMJBDrsU8UPNiiqItdqoQtDs/ie0wcUYg1j6K6dApYaAtJEqVxBm90y4rLjjW3
+phjDCBYCkbNKslXiaCyTVg4CyAuA4oFVBhInsDwpIdLK6DPzVI/3gWOJuzNzFUn/
+q/OpYDmXpPPLk//hC+4WSIYiScgxiKVECTICoDGJBRKxiMMCBMAAPVj7z1Oh4MlD
+miB7Dcn5WFvvxLmaqt41jryKQZE0oFiSpSCvi9Jxw6XEUEDGELI85DiIWNoq8ojH
+FIN5QeYpSq+KFGJZXpagKJKABhzJiwhBxLHQCiRBVwZJlueAIAuyaAWMKLIsjVi9
+xkmIA1CwQkrkdDM8x4u0hAHi9CZZoGhGZnUXHvyGSyUSrBRkYanxqRUqCBuyjeD+
+78+C1Hy9za2pXhWpTr2Y5/W6EwzbXp8bE60JRBEWc+/NyRUVl6Rv7v7dkjr6YCQ0
+hHEE3uBWNJyrGARkGQ7oj3EOLjSCEkRZ4nigJ8KIAitADGWGphhOD8UqYJphKYqj
+ISMzMjR2xAFEA8TwNKQwRvx9Rlldp2DXR3oUu0vwFmiYKH03MCrYFBBomhESaFxe
+0yMPR/x7o4ezzVOPmoj91bEHzr1Wm3NmXseutiV7Vu79MGVOOF2TZkt2T/H9e2Py
+M+ps9ZvmSTsdru6JqCV1JWrYEyMbQ96sD20/7Tl/o6MUjA92tpEXhs2zR0MqxJKK
+nk0z7rT1mRp/ubqwKNnR3Xawc8Vay6WTjukm+oR/OIQJit6VGtUbp9juHNnaMr1/
+aNb69MQFvde7amz+LZMz3xlYjdZuKQr96mKWdgA/c707b9+PydVHElcvU4N7m4vR
+Lfj9fGUMzX1Wfv453/aYnsJSb1wzcyyb29E1+QFRt+rb0vRqZ3v92aPxgyem+k8l
+R/7E7rEvHYhZGUyGm6fXBVa2xK8pizW57L0jX95xg2UNV/ucKftaw97q2t1/3B+R
+Xh5JB5XVpX6UVrl5HLs/PRk22NHze+/AvMjo4umJbH9Lx8fZfx6WZ486In2b5aSw
+ty+3Nr4fOHrVs7nqk20xrX803NKKbh7qybGl/TB06NUg5diZF8vN28Q5Qxt/+ybW
+H29JObxg49KmK2NlXwsTEW23Zzn6/6Kqr7kv/uq7vMhWYT43/hDRdMl5O6PW0z1z
+x8uJmVVDVY9/PpmyruDghdPH7fNX/Ny59YXt55+uqsmZu6Gxw9R+I9NvV8eKzeXh
+Wc1pNxeV3B6wpT/1eoonyze2aio407zzlT7HSNI0gWYVnvW/F90QbvnipSuPRe8O
+LjsamxXv/hs=
+=mrVZ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kevashcraft
+
+==================================================================
+
+

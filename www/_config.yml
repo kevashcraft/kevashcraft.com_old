@@ -1,0 +1,16 @@
+# Site settings
+title: Kevin Ashcraft's Website
+email: kevin@kevashcraft.com
+description: I'm Kevin Ashcraft, computer programmer and ham radio (KM4FPA) operator in Central Florida.
+
+baseurl: ""
+domain: "kevashcraft.com"
+twitter_username: kevashcraft
+Gplus_username: +KevinAshcraft
+url: "https://kevashcraft.com"
+protocol: "https://"
+github_username:  kevashcraft
+
+# Build settings
+markdown: kramdown
+

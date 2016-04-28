@@ -1,0 +1,84 @@
+
+.border {
+	border: 1px solid $highlight-color;
+}
+
+.center {
+	text-align: center;
+}
+
+.clear {
+	clear: both;
+}
+
+.float-left {
+	float: left;
+	margin: 45px;
+}
+
+.float-right {
+	float: right;
+	margin: 45px;
+}
+
+.highlight {
+	color: $highlight-color;
+}
+
+.inline {
+	display: inline-block;
+}
+
+.margin-right {
+	margin-right: 25px;
+}
+
+.margin-top-75 {
+	margin-top: 75px;
+}
+
+.max-width-300 {
+	max-width: 300px;
+}
+
+.padding-15-45 {
+	padding: 15px 45px;
+}
+
+.page-background {
+	background: $content-background;
+	color: $grey-color-dark;
+}
+
+.see-through-page-background {
+	background: rgba(255,255,255,.25);
+}
+
+.quote {
+	clear: both;
+	text-align: center;
+	text-shadow: 3px 3px 4px black;
+	&::before, &::after {
+    font-size: 36px;
+    text-align: center;
+    line-height: 8px;
+    color: #fff;
+    position: relative;
+  }
+  &::before {
+  	content: open-quote;
+  }
+  &::after {
+  	content: close-quote;
+  }
+
+}
+
+
+
+@include media-query($on-laptop) {
+	.float-left {
+		float: none;
+		margin: 0;
+	}
+}

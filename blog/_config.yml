@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Kevin's Blog
+email: kevin@kevashcraft.com
+description: I'm Kevin Ashcraft and these are my thoughts on Life, the Universe, and Nothing; plus some Linux troubleshooting.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://d.blog.kevashcraft.com" # the base hostname & protocol for your site
+twitter_username: kevashcraft
+github_username:  kevashcraft
+
+# Build settings
+markdown: kramdown
+

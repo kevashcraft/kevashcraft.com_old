@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<section>
+  <h1>Hey You</h1>
+  <p>Welcome to my blog!</p>
+  <h1>Linux and Things</h1>
+  <p>Here I write about my Linux troubleshooting experience, thoughts on life, and Nothing in particular.</p>
+</section>
+
+<div class="home">
+
+  <h1 class="page-heading">Recent Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</div>
